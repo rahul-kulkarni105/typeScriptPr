@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/rahul-kulkarni105/typeScriptPr#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "@types/faker": "^4.1.10",
+    "@types/googlemaps": "^3.39.3",
+    "axios": "^0.19.2",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
   }
 }
